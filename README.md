@@ -1,2 +1,2 @@
 # BlackJack
-BlackJack Game App
+BlackJack Game App - Scrimba
